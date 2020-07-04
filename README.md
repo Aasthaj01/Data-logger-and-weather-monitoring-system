@@ -1,2 +1,2 @@
-# data_logger
-Records data over time or in relation to location with the help of labVIEW software. In real time, data can be recorded using external sensors like lm-35 for temperature sensing, MS-5540 digital micro pressure sensor, LM-293 moisture/humidity sensor
+# data_logger and weather monitoring system
+Records data over time or in relation to location with the help of labVIEW software, compares that data with pre-set values and generates warning on exceed of any parameter value. In real time, data can be recorded using external sensors like lm-35 for temperature sensing, MS-5540 digital micro pressure sensor, LM-293 moisture/humidity sensor along with the help of myDAQ card.
